@@ -1,0 +1,82 @@
+[
+    {
+        "port": 0,
+        "bw": "200G",
+        "enable": true
+    },
+    {
+        "port": 1,
+        "bw": "0G",
+        "enable": false
+    },
+    {
+        "port": 2,
+        "bw": "0G",
+        "enable": false
+    },
+    {
+        "port": 3,
+        "bw": "0G",
+        "enable": false
+    },
+    {
+        "port": 4,
+        "bw": "200G",
+        "enable": true
+    },
+    {
+        "port": 5,
+        "bw": "0G",
+        "enable": false
+    },
+    {
+        "port": 6,
+        "bw": "0G",
+        "enable": false
+    },
+    {
+        "port": 7,
+        "bw": "0G",
+        "enable": false
+    },
+    {
+        "port": 8,
+        "bw": "200G",
+        "enable": true
+    },
+    {
+        "port": 9,
+        "bw": "0G",
+        "enable": false
+    },
+    {
+        "port": 10,
+        "bw": "0G",
+        "enable": false
+    },
+    {
+        "port": 11,
+        "bw": "0G",
+        "enable": false
+    },
+    {
+        "port": 12,
+        "bw": "200G",
+        "enable": true
+    },
+    {
+        "port": 13,
+        "bw": "0G",
+        "enable": false
+    },
+    {
+        "port": 14,
+        "bw": "0G",
+        "enable": false
+    },
+    {
+        "port": 15,
+        "bw": "0G",
+        "enable": false
+    }
+]

@@ -1,0 +1,470 @@
+[
+    {
+        "port": 0,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 0,
+        "num_packets": 0,
+        "bw": "2.5G"
+    },
+    {
+        "port": 1,
+        "is_host": true,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 0,
+        "num_packets": 0,
+        "bw": "2.5G"
+    },
+    {
+        "port": 2,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 3,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 4,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 5,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 6,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 7,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 8,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 9,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 10,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 11,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 12,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 13,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 14,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 15,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 16,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 17,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 18,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 19,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 20,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 21,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 22,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 23,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 24,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 25,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 26,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 27,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 28,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 29,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 30,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 31,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 32,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 33,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 34,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 35,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 36,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 37,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 38,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 39,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 40,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 41,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 42,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 43,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 0,
+        "priority": 2,
+        "num_packets": 1000,
+        "bw": "2.5G"
+    },
+    {
+        "port": 44,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 0,
+        "num_packets": 0,
+        "bw": "2.5G"
+    },
+    {
+        "port": 45,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 0,
+        "num_packets": 0,
+        "bw": "2.5G"
+    },
+    {
+        "port": 46,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 0,
+        "num_packets": 0,
+        "bw": "2.5G"
+    },
+    {
+        "port": 47,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 0,
+        "num_packets": 0,
+        "bw": "2.5G"
+    },
+    {
+        "port": 48,
+        "is_host": true,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 0,
+        "num_packets": 0,
+        "bw": "10G"
+    },
+    {
+        "port": 49,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 0,
+        "num_packets": 0,
+        "bw": "10G"
+    },
+    {
+        "port": 50,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 0,
+        "num_packets": 0,
+        "bw": "10G"
+    },
+    {
+        "port": 51,
+        "is_host": false,
+        "pkt_size": 64,
+        "dest": 1,
+        "priority": 0,
+        "num_packets": 0,
+        "bw": "10G"
+    }
+]

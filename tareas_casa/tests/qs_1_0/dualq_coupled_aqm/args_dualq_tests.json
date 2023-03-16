@@ -1,0 +1,11 @@
+{
+    "ma_config": "qs_1_0/config/ma_config/l4s_ma_config.json",
+    "ecn_config": "qs_1_0/config/ecn_config/ecn_config.json",
+    "ports_config": "qs_1_0/config/front_plane_config/48x2.5G4x10G.json",
+    "stats_csv": "./memory_accounting_basic_stats_tcp.csv",
+    "mg_lut_root": "qs_1_0/config/lookup_tables/mg_lut_",
+    "qg_pq_lut_root": "qs_1_0/config/lookup_tables/qg_pq_lut_",
+    "parent_translation": "qs_1_0/config/parent_translation/parent_0.json",
+    "network_table": "tests/qs_1_0/dualq_coupled_aqm/network_table_all.json",
+    "l4s_config": "qs_1_0/config/ma_config/l4s_ma_config.json"
+}

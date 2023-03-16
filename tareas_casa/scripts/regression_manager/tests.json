@@ -1,0 +1,78 @@
+{
+    "rosewood_repo": "hpn_rosewood/model/sst/tests/qs_1_0",
+    "max_threads": 3,
+    "test_list": [
+        {
+            "directory": "",
+            "args_file": "args.json",
+            "test_name": "constant_test.py",
+            "times": 3
+        },
+        {
+            "directory": "",
+            "args_file": "args.json",
+            "test_name": "ingress_absortion_dwrr.py",
+            "times": 3
+        },
+        {
+            "directory": "",
+            "args_file": "args.json",
+            "test_name": "ingress_absortion.py",
+            "times": 3
+        },
+        {
+            "directory": "",
+            "args_file": "args.json",
+            "test_name": "ingress_port_fairness_dwrr.py",
+            "times": 3
+        },
+        {
+            "directory": "",
+            "args_file": "args.json",
+            "test_name": "ingress_port_fairness.py",
+            "times": 3
+        },
+        {
+            "directory": "",
+            "args_file": "args.json",
+            "test_name": "phase_one_test.py",
+            "times": 3
+        },
+        {
+            "directory": "",
+            "args_file": "args.json",
+            "test_name": "phase_two_test.py",
+            "times": 3
+        },
+        {
+            "directory": "",
+            "args_file": "args.json",
+            "test_name": "random_test.py",
+            "times": 3
+        },
+        {
+            "directory": "dualq_coupled_aqm",
+            "args_file": "args_dualq_tests.json",
+            "test_name": "dualq_basic_dwrr_v2.py",
+            "times": 3
+        },
+        {
+            "directory": "dualq_coupled_aqm",
+            "args_file": "args_dualq_tests.json",
+            "test_name": "dualq_basic_dwrr.py",
+            "times": 3
+        },
+        {
+            "directory": "dualq_coupled_aqm",
+            "args_file": "args_dualq_tests.json",
+            "test_name": "dualq_basic_v2.py",
+            "times": 3
+        },
+        {
+            "directory": "dualq_coupled_aqm",
+            "args_file": "args_dualq_tests.json",
+            "test_name": "dualq_basic.py",
+            "times": 3
+        }
+    ]
+}
