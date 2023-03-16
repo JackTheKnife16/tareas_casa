@@ -1,9 +1,0 @@
-{
-    "ma_config": "qs_1_0/config/ma_config/ma_config_official.json",
-    "ports_config": "qs_1_0/config/front_plane_config/48x2.5G4x10G.json",
-    "ecn_config": "qs_1_0/config/ecn_config/ecn_config.json",
-    "stats_csv": "./memory_accounting_basic_stats.csv",
-    "mg_lut_root": "qs_1_0/config/lookup_tables/mg_lut_",
-    "qg_pq_lut_root": "qs_1_0/config/lookup_tables/qg_pq_lut_",
-    "parent_translation": "qs_1_0/config/parent_translation/parent_0.json"
-}
